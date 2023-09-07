@@ -1,0 +1,29 @@
+{
+  "name": "aws-rekognition-image-label-detection",
+  "version": "1.0.0",
+  "description": "A simple Node.js application to detect labels within an image using AWS Rekognition.",
+  "main": "detect.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Asgaros/aws-rekognition-image-label-detection.git"
+  },
+  "keywords": [
+    "nodejs",
+    "aws",
+    "rekognition",
+    "aws-rekognition",
+    "node-js"
+  ],
+  "author": "Thomas Belser",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Asgaros/aws-rekognition-image-label-detection/issues"
+  },
+  "homepage": "https://github.com/Asgaros/aws-rekognition-image-label-detection",
+  "dependencies": {
+    "aws-sdk": "^2.1452.0"
+  }
+}
